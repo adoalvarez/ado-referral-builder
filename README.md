@@ -26,4 +26,12 @@ Open [http://localhost:3001/api/referrals](http://localhost:3001/api/referrals) 
 I used express for backend and just a json file for storing data since setting up its own DB would be overkill. \
 I haven't added other functionalities in the app such as add avatar and validations.
 
+## Time consumed building the app
+
+It takes 3 days to build. 4-5 hrs a day to finish the project. \
+
+1st day - I worked with the frontend part of the project
+2nd day - I worked with the backend part 
+3rd day - I integrate the backend into frontend.
+
 
