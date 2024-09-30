@@ -30,8 +30,8 @@ I haven't added other functionalities in the app such as add avatar and validati
 
 It takes 3 days to build. 4-5 hrs a day to finish the project. \
 
-1st day - I worked with the frontend part of the project
-2nd day - I worked with the backend part 
-3rd day - I integrate the backend into frontend.
+1st day - I worked with the frontend part of the project\
+2nd day - I worked with the backend part \
+3rd day - I integrate the backend into frontend.\
 
 
