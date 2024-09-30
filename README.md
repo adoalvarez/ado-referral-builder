@@ -6,10 +6,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Clone the repository
 
+Go to terminal and clone the repository using `git clone https://github.com/adoalvarez/ado-referral-builder.git`
+
+### Install dependencies
+
+Make sure to install dependencies to be able to run the app. \
+use `npm i` or `npm install`
+
 ### `npm start-dev`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-Open [http://localhost:3001/api/referrals] (http://localhost:3001/api/referrals) to view get api
+This will run both backend and frontend app in development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. \
+Open [http://localhost:3001/api/referrals](http://localhost:3001/api/referrals) to view get api
 
 
