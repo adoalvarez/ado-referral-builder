@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## First step
+## Setting up
 
 ### Clone the repository
 
@@ -19,5 +19,11 @@ use `npm i` or `npm install`
 This will run both backend and frontend app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. \
 Open [http://localhost:3001/api/referrals](http://localhost:3001/api/referrals) to view get api
+
+
+## Notes
+
+I used express for backend and just a json file for storing data since setting up its own DB would be overkill. \
+I haven't added other functionalities in the app such as add avatar and validations.
 
 
