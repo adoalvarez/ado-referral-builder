@@ -1,30 +1,8 @@
 [
   {
-    "givenName": "test",
-    "email": "test",
-    "phone": "test",
-    "homeOR": "asda",
-    "street": "asda",
-    "suburb": "asdasd",
-    "state": "asdasd",
-    "postCode": "asdasd",
-    "country": "asdasd"
-  },
-  {
-    "givenName": "a",
-    "email": "a",
-    "phone": "a",
-    "homeOR": "a",
-    "street": "a",
-    "suburb": "a",
-    "state": "a",
-    "postCode": "a",
-    "country": "a"
-  },
-  {
     "givenName": "Ado",
     "surName": "Alvarez",
-    "email": "adodoots@gmail.com",
+    "email": "adoalvarez.dev@gmail.com",
     "phone": "09999552406",
     "homeOR": "123123",
     "street": "123123",
