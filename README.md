@@ -6,10 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Clone the repository
 
-Go to terminal and clone the repository using `git clone https://github.com/adoalvarez/ado-referral-builder.git`
+Go to terminal and clone the repository using `git clone https://github.com/adoalvarez/ado-referral-builder.git`.
 
-### Install dependencies
+### Go to clone file and install dependencies
 
+Head to clone directory using `cd ado-referral-build`. \
 Make sure to install dependencies to be able to run the app. \
 use `npm i` or `npm install`
 
